@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="location">Fetch Location</string>
+    <string name="temperature">NA</string>
+    <string name="changelocation">change city</string>
+    <string name="imagebutton">button with image</string>
+    <string name="imageview">view of weather</string>
+    <string name="changecity">Change City</string>
+</resources>
